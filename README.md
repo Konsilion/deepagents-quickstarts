@@ -1,6 +1,6 @@
 # 🚀🧠 Deepagent Quickstarts
 
-[Deepagents](https://github.com/langchain-ai/deepagents) is a simple, open source agent harness. It uses some common principle seen in popular agents such as [Claude Code](https://code.claude.com/docs) and [Manus](https://www.youtube.com/watch?v=6_BcCthVvb8), including **planning** (prior to task execution), **computer access** (giving the able access to a shell and a filesystem), and **sub-agent delegation** (isolated task execution). This repo has a collection of quickstarts that demonstrate different agents that can be easily configured on top of the  `deepagents` harness.
+[Deepagents](https://github.com/langchain-ai/deepagents) is a simple, open source agent harness. It uses some common principle seen in popular agents such as [Claude Code](https://code.claude.com/docs) and [Manus](https://www.youtube.com/watch?v=6_BcCthVvb8), including **planning** (prior to task execution), **computer access** (giving the able access to a shell and a filesystem), and **sub-agent delegation** (isolated task execution). This repo has a collection of quickstarts that demonstrate different agents that can be easily configured on top of the  deepagents harness.
 
 <img width="1536" height="1024" alt="quick" src="https://github.com/user-attachments/assets/d3d94751-2c33-4686-9d11-a43b975fc4fe" />
 
